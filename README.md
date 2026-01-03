@@ -1,12 +1,38 @@
-# React + Vite Movie APP
+# 🎬 Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **React + Vite Movie App** styled with **Tailwind CSS** — a frontend project that fetches and displays movie data so users can search and explore films. Built with modern React tooling and a movie API. ([github.com](https://github.com/Rakib-dhali/movie-app))
 
-Currently, two official plugins are available:
+## 🚀 Live Demo  
+Try the live version here:  
+🔗 https://movie-app‑flame‑one.vercel.app/ ([github.com](https://github.com/Rakib-dhali/movie-app))
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧠 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎥 **Search movies** by title  
+- 📊 **Display movie results** with posters and info  
+- ⚡ **Fast and responsive UI** with **Tailwind CSS**  
+- 🔎 Built with **React + Vite** for modern frontend development  
+
+---
+
+## 🧱 Technologies Used
+
+| Technology      | Purpose |
+|-----------------|---------|
+| **React**       | UI library for building components |
+| **Vite**        | Super-fast dev server and build tool |
+| **Tailwind CSS**| Utility-first styling and responsive design |
+| **JavaScript**  | Core language |
+| **Movie API**   | Data source for movies |
+
+---
+
+## 📦 Installation
+
+To run locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Rakib-dhali/movie-app.git
